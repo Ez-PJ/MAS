@@ -3,7 +3,7 @@ Simple relational model implementation using hibernate framework and H2 database
 
 # Requirements:
 1. Relational model : classes
-2. Relational model : association (1:* or *:*)
+2. Relational model : association (one to many or many to many)
 3. Relational model : inheritance
 4. Create a working program that uses the database and implements the structures mentioned above.
 
